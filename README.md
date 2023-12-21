@@ -1,5 +1,5 @@
 # About Me:
-[![](https://visitcount.itsvg.in/api?id=romode&icon=1&color=1)](https://visitcount.itsvg.in)<br>
+[![](https://visitcount.itsvg.in/api?id=romode&icon=1&color=1)](#)<br>
 👋 Hi, I’m @romode<br>🔥 I love to Code<br>📫 Discord: romode#6463
 
 # Tech Stack:
